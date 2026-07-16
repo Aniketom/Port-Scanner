@@ -16,3 +16,13 @@ SCAN COMPLETE
 Open Ports:
 22
 80
+
+## workflow
+
+User enters a hostname or IP
+        ↓
+Hostname resolves to an IP address
+        ↓
+Scanner checks each port
+        ↓
+Open ports are displayed
