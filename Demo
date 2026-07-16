@@ -17,6 +17,11 @@ Open Ports:
 22
 80
 
+22 → SSH
+80 → HTTP
+443 → HTTPS
+3306 → MySQL
+
 ## workflow
 
 User enters a hostname or IP
