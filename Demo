@@ -1,0 +1,18 @@
+## Demo
+==================================================
+          PYTHON PORT SCANNER
+==================================================
+
+Enter IP address or domain: scanme.nmap.org
+
+Scanning Target : scanme.nmap.org
+IP Address      : 45.33.32.156
+
+[OPEN] Port 22
+[OPEN] Port 80
+
+SCAN COMPLETE
+
+Open Ports:
+22
+80
