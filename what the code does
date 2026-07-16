@@ -1,0 +1,16 @@
+
+socket
+↓
+Creates a TCP connection
+
+threading
+↓
+Scans multiple ports at the same time
+
+Queue
+↓
+Distributes work among threads
+
+connect_ex()
+↓
+Returns 0 if a port is open
